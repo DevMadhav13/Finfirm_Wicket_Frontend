@@ -14,14 +14,16 @@ Flow of project:
 
  Elements of Project :
 <h3> A. Signup Page</h3>
- ![image](https://github.com/DevMadhav13/Finfirm_Wicket_Frontend/assets/135861726/b67335d3-e12f-4de5-8c5f-33dbced635d6)
+![image](https://github.com/DevMadhav13/Finfirm_Wicket_Frontend/assets/135861726/b67335d3-e12f-4de5-8c5f-33dbced635d6)
 <h3> B. Login Page</h3>
- ![image](https://github.com/DevMadhav13/Finfirm_Wicket_Frontend/assets/135861726/8f693abe-5257-4f0a-b2ef-9c359a2d2337)
+![image](https://github.com/DevMadhav13/Finfirm_Wicket_Frontend/assets/135861726/8f693abe-5257-4f0a-b2ef-9c359a2d2337)
 <h3> C. Home Page for Authenticated user</h3>
- ![image](https://github.com/DevMadhav13/Finfirm_Wicket_Frontend/assets/135861726/566617c2-8d2e-46a9-b8d7-644c5eb26191)
+![image](https://github.com/DevMadhav13/Finfirm_Wicket_Frontend/assets/135861726/566617c2-8d2e-46a9-b8d7-644c5eb26191)
 <h3> D. Home Page for Unauthenticated user</h3>
- ![image](https://github.com/DevMadhav13/Finfirm_Wicket_Frontend/assets/135861726/dd5f51cd-71eb-4059-bf2d-f11a67f9d87a)
- 
+![image](https://github.com/DevMadhav13/Finfirm_Wicket_Frontend/assets/135861726/dd5f51cd-71eb-4059-bf2d-f11a67f9d87a)
+
+
+
  <h2>Thank you !!</h2>
  <h2 Happy Coding !!</h2>
 
