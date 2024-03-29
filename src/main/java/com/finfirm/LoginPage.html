@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Login page</title>
+
+</head>
+<body>
+<div >
+    <h1>Welcome to Wicket app login page</h1><br>
+    <h2>Please enter valid derails below</h2>
+</div>
+
+<div class="container">
+    <h2>Login</h2>
+    <form wicket:id="loginForm">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username"wicket:id="username" required>
+
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" wicket:id="password" required>
+
+        <button type="submit">Login</button>
+
+    </form>
+
+</div>
+
+</body>
+</html>
