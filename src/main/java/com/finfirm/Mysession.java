@@ -6,7 +6,7 @@ import org.apache.wicket.request.Request;
 public class Mysession extends WebSession {
     private static final long serialVersionUID = 1L;
 
-    private static boolean isAuthenticated = false;
+    public static boolean isAuthenticated = false;
 
     public Mysession(Request request) {
         super(request);
